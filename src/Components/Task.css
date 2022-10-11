@@ -1,0 +1,20 @@
+.maintaskContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+}
+
+.steptwoContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.superior {
+    display: flex;
+    flex-direction: row;
+}
+
+.datareceived{
+    margin:6rem;
+   
+}
